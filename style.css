@@ -43,6 +43,9 @@ button {
 	transition:0.5s all;
 	text-decoration:none;
 }
+a {
+	text-decoration:none;
+}
 .links a:hover {
 	background-color:#79A90A;
 	color:white;
